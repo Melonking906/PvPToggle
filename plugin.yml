@@ -1,0 +1,9 @@
+name: PvPToggle
+main: me.nonit.pvptoggle.PvPToggle
+version: 0.1
+author: Melonking
+description: Toggle PvP
+
+commands:
+  pvp:
+    description: Toggle that pvp!
